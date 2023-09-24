@@ -11,6 +11,10 @@
     text-decoration: none;
     display: block;
 
+    .rounded{
+        color: $primary;
+    }
+
     span {
         position: absolute;
         background-color: $primary;
