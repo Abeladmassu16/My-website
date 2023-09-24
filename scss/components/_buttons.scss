@@ -8,6 +8,7 @@
     margin: 0;
     border: 0.1rem solid rgba($white, 0.6);
     background-color: $white;
+    text-decoration: none;
     display: block;
 
     span {
@@ -24,6 +25,7 @@
             color: $white;
             font-size: 1rem;
             line-height: 2.5rem;
+            padding-left: 0.7rem;
         }
 
     }
